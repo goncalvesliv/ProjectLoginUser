@@ -1,4 +1,4 @@
-##English
+-English
 
 College Project
 
@@ -7,7 +7,7 @@ Demonstration video: https://drive.google.com/file/d/1RaRub0tbcd5la_ifDoVNbsbN65
 
 .NET Framework Version = v4.6
 
-##Portuguese
+-Portuguese
 
 Projeto da Faculdade
 
